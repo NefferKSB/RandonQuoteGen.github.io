@@ -1,7 +1,7 @@
 body {
-  font-family: 'Cagliostro', sans-serif;
-  background-color: #c4be91;
-  width: 100%;
+  font-family: 'Cagliostro', sans-serif !important;
+  background-color: #c4be91 !important;
+  width: 100% !important;
 }
 #title {
   text-align: center;
@@ -39,14 +39,14 @@ body {
   color: #666633;
 }
 .btn:hover {
-  background-color: #666633;
-  color: white;
+  background-color: #666633 !important;
+  color: white !important;
   text-decoration: none;
 	-webkit-transition: all 0.5s ease;
 }
 .btn:focus {
-  background-color: #fff;
-  color: #666633;
+  background-color: #fff !important;
+  color: #666633 !important;
 }
 .buttons div {
   padding: 5px;
